@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ## My name is Nivita Patri. 
 
-  🔭 I am seeking a software development internship in a collaborative environment. <br /> <br />
+  🔭 I am seeking a entry-level software development position in a collaborative environment. <br /> <br />
   🌱 CS Major, Economics Minor, Case Western Reserve University, c/o 2024 <br /> <br />
   📫 Contact: nivita.patri@case.edu <br /> <br /> <br /> 
   
